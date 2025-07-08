@@ -16,7 +16,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={Auth} projectName="SmartCalc" />
         <ProjectBox projectPhoto={boot} projectName="Responsiveweb" />
         <ProjectBox projectPhoto={Adminpanle} projectName="BlogAdmin" />
-        <ProjectBox projectPhoto={FirebaseCrud} projectName="TicTac" />
+        <ProjectBox projectPhoto={FirebaseCrud} projectName="FoodDel_DataManagment" />
         <ProjectBox projectPhoto={Tickte} projectName="DynamicDataManager" />
       </div>
 

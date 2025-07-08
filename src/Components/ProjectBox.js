@@ -5,9 +5,9 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    TicTacDesc : "A fully functional Tic-Tac-Toe game developed using HTML, CSS, and vanilla JavaScriptThe application features two-player turn-based logic with automatic winner detection.Includes a clean and responsive user interface with a restart game option.Deployed on Netlify for seamless accessibility and performance.Also includes visual indicators to highlight the winning combination for better user experience.",
-    TicTacGithub : "https://github.com/VatsalPrajapati2005/Tic-Tag-Tow-Game-With-js.git",
-    TicTacWebsite : "https://fungame11.netlify.app/",
+    FoodDel_DataManagmentDesc : "FoodDel is a full-stack food ordering website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse menus, manage carts, and place orders securely. JWT authentication ensures protected access, and Stripe integration enables smooth online payments. An admin panel is included to manage menu items and view customer orders in real-time. Users can also track their order history and manage their profiles efficiently.",
+    FoodDel_DataManagmentGithub : "https://github.com/VatsalPrajapati2005/Food_Del-MERN.git",
+    FoodDel_DataManagmentWebsite : "https://food-delivery-frontend-brown-nine.vercel.app/",
 
     ResponsivewebDesc:"Developed a responsive and scalable E-Commerce web application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Implemented secure user authentication, dynamic product listings, shopping cart, and order management features. Built a dedicated admin panel for product and inventory control. Utilized RESTful APIs for seamless communication between frontend and backend. Focused on clean UI/UX design, data security, and performance optimization throughout the application.",
     ResponsivewebGithub:"https://github.com/VatsalPrajapati2005/Mern-Project.git",
